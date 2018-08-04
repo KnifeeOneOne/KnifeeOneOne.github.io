@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
   <loc>https://knifeeoneone.github.io/</loc>
-  <lastmod>2018-08-04T16:49:26+08:00</lastmod>
+  <lastmod>2018-08-04T18:24:15+08:00</lastmod>
 </url>
 
 <url>
@@ -16,6 +16,15 @@
 </url>
 
 
+<url>
+  <loc>https://knifeeoneone.github.io/About.html</loc>
+  <lastmod>2018-08-04T18:14:12+08:00</lastmod>
+</url>
+
+
+<url>
+  <loc>https://knifeeoneone.github.io/Untitled.html</loc>
+</url>
 
 
 </urlset>
