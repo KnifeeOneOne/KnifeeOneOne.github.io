@@ -4,7 +4,7 @@
   <title><![CDATA[KnifeeOneOne]]></title>
   <link href="https://knifeeoneone.github.io/atom.xml" rel="self"/>
   <link href="https://knifeeoneone.github.io/"/>
-  <updated>2018-08-04T16:33:31+08:00</updated>
+  <updated>2018-08-04T16:37:57+08:00</updated>
   <id>https://knifeeoneone.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://www.mweb.im">MWeb</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Table]]></title>
+    <link href="https://knifeeoneone.github.io/15333724786080.html"/>
+    <updated>2018-08-04T16:47:58+08:00</updated>
+    <id>https://knifeeoneone.github.io/15333724786080.html</id>
+    <content type="html"><![CDATA[
+<table>
+<thead>
+<tr>
+<th>Ni</th>
+<th>Ta</th>
+<th>Bi</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>kkk</td>
+<td>kkk</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Test]]></title>
